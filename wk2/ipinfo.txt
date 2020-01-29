@@ -1,0 +1,283 @@
+1.GOOGLE.COM
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T08:39:04-0700
+Creation Date: 1997-09-15T00:00:00-0700
+Registrar Registration Expiration Date: 2028-09-13T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: @markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+
+2.FACEBOOK.COM
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2020-01-15T16:52:39Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2028-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: @registrarsafe.com
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Facebook, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: +1.6505434800
+Registrant Fax Ext:
+Registrant Email: @fb.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Facebook, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: +1.6505434800
+Admin Fax Ext:
+Admin Email: @fb.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: +1.6505434800
+Tech Fax Ext:
+Tech Email: @fb.com
+Name Server: C.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+Name Server: A.NS.FACEBOOK.COM
+Name Server: D.NS.FACEBOOK.COM
+
+3.APPLE.COM
+Domain Name: apple.com
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2019-08-19T12:00:12Z
+Creation Date: 1987-02-19T00:00:00Z
+Registrar Registration Expiration Date: 2021-02-20T05:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: @cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Apple Inc.
+Registrant Street: 
+Registrant City: Cupertino
+Registrant State/Province: CA
+Registrant Postal Code: 95014
+Registrant Country: US
+Registrant Phone: +1.4089961010
+Registrant Phone Ext: 
+Registrant Fax: +1.4089741560
+Registrant Fax Ext: 
+Registrant Email: @apple.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Apple Inc.
+Admin Street: 
+Admin City: Cupertino
+Admin State/Province: CA
+Admin Postal Code: 95014
+Admin Country: US
+Admin Phone: +1.4089961010
+Admin Phone Ext: 
+Admin Fax: +1.4089741560
+Admin Fax Ext: 
+Admin Email: @apple.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Apple Inc.
+Tech Street: 
+Tech City: Cupertino
+Tech State/Province: CA
+Tech Postal Code: 95014
+Tech Country: US
+Tech Phone: +1.4089961010
+Tech Phone Ext: 
+Tech Fax: +1.4089741560
+Tech Fax Ext: 
+Tech Email: @apple.com
+Name Server: a.ns.apple.com
+Name Server: b.ns.apple.com
+Name Server: c.ns.apple.com
+Name Server: d.ns.apple.com
+
+4.AMAZON.COM
+Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-08-26T12:19:56-0700
+Creation Date: 1994-10-31T21:00:00-0800
+Registrar Registration Expiration Date: 2024-10-30T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: @markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext: 
+Registrant Fax: +1.2062667010
+Registrant Fax Ext: 
+Registrant Email: @amazon.com
+Registry Admin ID: 
+Admin Name: Hostmaster, Amazon Legal Dept.
+Admin Organization: Amazon Technologies, Inc.
+Admin Street: P.O. Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 89507
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext: 
+Admin Fax: +1.2062667010
+Admin Fax Ext: 
+Admin Email: @amazon.com
+Registry Tech ID: 
+Tech Name: Hostmaster, Amazon Legal Dept.
+Tech Organization: Amazon Technologies, Inc.
+Tech Street: P.O. Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 89507
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext: 
+Tech Fax: +1.2062667010
+Tech Fax Ext: 
+Tech Email: @amazon.com
+Name Server: ns2.p31.dynect.net
+Name Server: ns1.p31.dynect.net
+Name Server: ns3.p31.dynect.net
+Name Server: pdns1.ultradns.net
+Name Server: ns4.p31.dynect.net
+Name Server: pdns6.ultradns.co.uk
+
+5. TWITTER.COM
+Domain Name: twitter.com
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2020-01-17T01:09:06Z
+Creation Date: 2000-01-21T11:28:17Z
+Registrar Registration Expiration Date: 2021-01-21T16:28:17Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: @cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Twitter, Inc.
+Registrant Organization: Twitter, Inc.
+Registrant Street: 
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94103
+Registrant Country: US
+Registrant Phone: +1.4152229670
+Registrant Phone Ext: 
+Registrant Fax: +1.4152220922
+Registrant Fax Ext: 
+Registrant Email: @twitter.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Twitter, Inc.
+Admin Street: 
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94103
+Admin Country: US
+Admin Phone: +1.4152229670
+Admin Phone Ext: 
+Admin Fax: +1.4152220922
+Admin Fax Ext: 
+Admin Email: @twitter.com
+Registry Tech ID: 
+Tech Name: Tech Admin
+Tech Organization: Twitter, Inc.
+Tech Street: 
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94103
+Tech Country: US
+Tech Phone: +1.4152229670
+Tech Phone Ext: 
+Tech Fax: +1.4152220922
+Tech Fax Ext: 
+Tech Email: @twitter.com
+Name Server: NS4.P34.DYNECT.NET
+Name Server: b.r06.twtrdns.net
+Name Server: NS3.P34.DYNECT.NET
+Name Server: d.r06.twtrdns.net
+Name Server: c.r06.twtrdns.net
+Name Server: d01-02.ns.twtrdns.net
+Name Server: a.r06.twtrdns.net
+Name Server: d01-01.ns.twtrdns.net

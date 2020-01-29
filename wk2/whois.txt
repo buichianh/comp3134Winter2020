@@ -1,0 +1,151 @@
+1. GOOGLE.COM
+Domain:
+google.com
+
+Registrar:
+MarkMonitor Inc.
+
+Registered On:
+1997-09-15
+
+Expires On:
+2028-09-13
+
+Updated On:
+2019-09-09
+
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+
+Name Servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+2.FACEBOOK.COM
+Domain:
+facebook.com
+
+Registrar:
+RegistrarSafe, LLC
+
+Registered On:
+1997-03-29
+
+Expires On:
+2028-03-30
+
+Updated On:
+2020-01-15
+
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+
+Name Servers:
+a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+3.AMAZON.COM
+Domain:
+amazon.com
+
+Registrar:
+MarkMonitor Inc.
+
+Registered On:
+1994-11-01
+
+Expires On:
+2024-10-30
+
+Updated On:
+2019-05-07
+
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+
+Name Servers:
+ns1.p31.dynect.net
+ns2.p31.dynect.net
+ns3.p31.dynect.net
+ns4.p31.dynect.net
+pdns1.ultradns.net
+pdns6.ultradns.co.uk
+
+4. APPLE.COM
+Domain:
+apple.com
+
+Registrar:
+CSC Corporate Domains, Inc.
+
+Registered On:
+1987-02-19
+
+Expires On:
+2021-02-20
+
+Updated On:
+2019-08-19
+
+Status:
+clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+
+Name Servers:
+a.ns.apple.com
+b.ns.apple.com
+c.ns.apple.com
+d.ns.apple.com
+
+5.TWITTER.COM
+Domain:
+twitter.com
+
+Registrar:
+CSC Corporate Domains, Inc.
+
+Registered On:
+2000-01-21
+
+Expires On:
+2021-01-21
+
+Updated On:
+2020-01-17
+
+Status:
+clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+
+Name Servers:
+a.r06.twtrdns.net
+b.r06.twtrdns.net
+c.r06.twtrdns.net
+d.r06.twtrdns.net
+d01-01.ns.twtrdns.net
+d01-02.ns.twtrdns.net
+ns3.p34.dynect.net
+ns4.p34.dynect.net

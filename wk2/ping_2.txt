@@ -1,0 +1,13 @@
+PING 142.93.158.101 (142.93.158.101) 56(84) bytes of data.
+64 bytes from 142.93.158.101: icmp_seq=1 ttl=64 time=0.032 ms
+64 bytes from 142.93.158.101: icmp_seq=2 ttl=64 time=0.047 ms
+64 bytes from 142.93.158.101: icmp_seq=3 ttl=64 time=0.045 ms
+64 bytes from 142.93.158.101: icmp_seq=4 ttl=64 time=0.058 ms
+64 bytes from 142.93.158.101: icmp_seq=5 ttl=64 time=0.048 ms
+64 bytes from 142.93.158.101: icmp_seq=6 ttl=64 time=0.056 ms
+64 bytes from 142.93.158.101: icmp_seq=7 ttl=64 time=0.095 ms
+^C
+--- 142.93.158.101 ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6149ms
+rtt min/avg/max/mdev = 0.032/0.054/0.095/0.019 ms
+

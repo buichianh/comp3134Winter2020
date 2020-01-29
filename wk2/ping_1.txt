@@ -1,0 +1,14 @@
+PING www.google.com (172.217.1.4) 56(84) bytes of data.
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=1 ttl=58 time=1.06 ms
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=2 ttl=58 time=0.661 ms
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=3 ttl=58 time=0.507 ms
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=4 ttl=58 time=0.471 ms
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=5 ttl=58 time=0.555 ms
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=6 ttl=58 time=0.624 ms
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=7 ttl=58 time=0.619 ms
+64 bytes from iad23s25-in-f4.1e100.net (172.217.1.4): icmp_seq=8 ttl=58 time=0.505 ms
+^C
+--- www.google.com ping statistics ---
+8 packets transmitted, 8 received, 0% packet loss, time 7109ms
+rtt min/avg/max/mdev = 0.471/0.625/1.064/0.179 ms
+
